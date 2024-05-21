@@ -1,0 +1,141 @@
+*{
+  margin:0;
+  
+}
+/*up side*/
+
+#banner{
+  
+height:125px;
+}
+
+img{
+  height: 30px;
+}
+
+
+#wel{
+  
+  text-align: center;
+  font-size: 60px;
+}
+
+#trust{
+  text-align: center;
+  font-size: 20px;
+}
+
+#kart{
+  text-align: center;
+  font-size: 45px;
+  height: 50px;
+}
+
+#cb{
+  
+  text-align: center;
+  font-size: 30px;
+}
+#finger{
+  
+  text-align: center;
+  font-size: 35px;
+}
+
+
+#first{
+  
+  text-align: center;
+}
+
+#second{
+  text-align: center;
+}
+
+#down{
+  
+  margin-left: auto;
+  margin-right: auto;
+  display: block;
+  height: 220px;
+
+}
+
+#disclaimer{
+  
+  margin-left: auto;
+  margin-right: auto;
+  display: block;
+  height: 220px;
+}
+
+#about{
+  
+  text-align: center;
+}
+
+#button{
+  
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  height: 65px;
+  width: 220px;
+  
+}
+
+#button{
+  
+  background:#32cd32;
+  border: 2px solid black;
+  border-radius: 12px;
+  font-weight: bolder;
+  font-size: 18px
+  
+}
+
+
+button.learn-more{
+  
+  padding: 1.25em 5em;
+  text-transform: uppercase;
+  transform-style: preserve-3d;
+  
+}
+
+buttom.learn ::before{
+  content: '';
+  position: absolute;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  height: 100%;
+  width: 100%;
+  border-radius: inherit;
+  background: #20e84c;
+  box-shadow: 0 0 0 2px #2fd119, 0 .625em 0 0 #3bff52;
+  transform: translate(0,.75em,-1em);
+  
+}
+
+#button:hover
+{
+  background: white;
+  color:lime;
+  transform: translate(0,.25em)
+  
+}
+
+a{
+  
+  text-decoration: none;
+}
+
+#shop{
+  
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  height: 90px;
+}
